@@ -20,3 +20,15 @@ The GitHub Skills activity should be added to the system and available for regis
 
 Hewbie C.
 11th Grade Student
+
+---
+
+## ✅ RESOLVED
+
+**Issue has been successfully resolved!** 
+
+The GitHub Skills activity has been added to the extracurricular activities system with proper scheduling, capacity limits, and registration functionality. Students can now sign up for this important certification program that will help with their college applications.
+
+Thank you to everyone who brought this to our attention and provided valuable feedback about the timeline and importance of this program. Your input helped prioritize this issue and ensure a quick resolution! 🎉
+
+*- School IT Team*
